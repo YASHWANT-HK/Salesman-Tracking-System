@@ -1,0 +1,24 @@
+{
+  "name": "salesman-tracking-system-using-cloud",
+  "version": "1.0.0",
+  "description": "Restful api of salesman tracking system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tacking",
+    "api",
+    "restful",
+    "rest"
+  ],
+  "author": "Yashwanth K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
