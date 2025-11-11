@@ -1,3 +1,3 @@
-const {PORT} = process.env
+const {PORT, CONNECTIONURL } = process.env;
 
-module.exports = {port: PORT}
+module.exports = {port: PORT, connectionUrl: CONNECTIONURL}
